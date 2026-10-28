@@ -10,8 +10,8 @@
  //number=> 2 to power 53
  //bigint use big number like stackmarket banking etc
  //string=>""
- //null=>standalone value
- //undefine=> value not assign
+ //null=>standalone value "Intenstionaly "
+ //undefine=> value not assign 
  //symbol=>uinque
 
  //object=>
