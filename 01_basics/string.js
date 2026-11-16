@@ -15,9 +15,9 @@
 //   console.log(`Helloo Sayali`)
 
 //Variable Interpolation
-// let name="Sayali";
-// let co="JS";
-// console.log(`Helloo ${name}, Your course is ${co}.`) //Helloo Sayali, Your course is JS.
+let name="Sayali";
+let co="JS";
+console.log(`Helloo ${name}, Your course is ${co}.`) //Helloo Sayali, Your course is JS.
 
 //Multiline String
 // let msg=`Hello sayali
