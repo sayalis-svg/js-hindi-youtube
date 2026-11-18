@@ -27,4 +27,17 @@ God's Opens your success Doors
 console.log(msg) 
 Hello sayali
 Nice to Meet You
-God's Opens your success Doors
+God's Opens your success Doors`
+
+/*************************** *********************************/
+// let text ="Hello JavaScript Developer";
+// let result = text.replaceAll(" ","-");//Replaces all matching occurrences
+// let result1 = text.replace("","-----"); //Replaces the first matching occurrence when using a string search value
+// console.log(result);
+// console.log(result1);
+
+//***Remove all whitespace, including tabs and newlines****/
+let text ="Hello JavaScript Developer";
+let result = text.replace(/\s/g, "");
+console.log(result);
+
